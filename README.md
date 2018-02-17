@@ -1,1 +1,1 @@
-# LazyCam---UE4-Camera-Manager-Plugin
+# LazyCam-UE4-Camera-Manager-Plugin
