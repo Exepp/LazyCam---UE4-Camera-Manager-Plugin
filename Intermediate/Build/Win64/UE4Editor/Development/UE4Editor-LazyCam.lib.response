@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LazyCam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"A:\Programy\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"A:\A_Unreal_Engine_4_Projekty\Nauka\LazyCamCreation\Plugins\LazyCam\Intermediate\Build\Win64\UE4Editor\Development\LazyCam\Module.LazyCam.cpp.obj"
+"A:\A_Unreal_Engine_4_Projekty\Nauka\LazyCamCreation\Plugins\LazyCam\Intermediate\Build\Win64\UE4Editor\Development\LazyCam\Module.LazyCam.gen.cpp.obj"
+"A:\Programy\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\LazyCam\PCLaunch.rc.res"
+"A:\Programy\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"A:\A_Unreal_Engine_4_Projekty\Nauka\LazyCamCreation\Plugins\LazyCam\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LazyCam.lib"
